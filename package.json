@@ -1,0 +1,22 @@
+{
+  "name": "glass-chat",
+  "version": "1.0.0",
+  "description": "chat service for glass basement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mirjoy/glass-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirjoy/glass-chat/issues"
+  },
+  "homepage": "https://github.com/mirjoy/glass-chat",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
